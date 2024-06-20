@@ -11,21 +11,18 @@ Para isso, foi realizada uma análise preliminar com dados de 500 clientes da Me
 4.	Contato
 
 ### 1. Instalação
-Pré-requisitos
-•	Python 3
-•	Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy, math
-Instruções de Instalação
-1.	Clone o repositório:
-	git clone https://github.com/seu-usuario/megaline-analysis.git
-2.	Navegue até o diretório do projeto:
-cd megaline-analysis
-3.	Instale as dependências:
+**Pré-requisitos:**
+•	Python 3  
+•	Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy, math  
 
-pip install -r requirements.txt
+
+1.	Clone o repositório
+2.	Navegue até o diretório do projeto
+3.	Instale as dependências: **pip install -r requirements.txt**
 
 
 ### 2. Uso
-Como Usar
+
 1.	Abra o Jupyter Notebook:
 2.	Navegue até o arquivo projeto_megaline_0.ipynb e abra-o.
 3.	Execute as células sequencialmente para reproduzir a análise.
@@ -34,8 +31,9 @@ Como Usar
 •	Análise descritiva dos dados dos clientes.
 •	Cálculo da receita gerada por cada plano.
 •	Comparação de receitas entre os planos Surf e Ultimate.
-•	Testes estatísticos para avaliar a diferença de receita entre os planos e entre diferentes regiões.
-Créditos
+•	Testes estatísticos para avaliar a diferença de receita entre os planos e entre diferentes regiões.  
+
+**Créditos**
 •	Autor: Renan Rosental
 
 ### 4. Contato
